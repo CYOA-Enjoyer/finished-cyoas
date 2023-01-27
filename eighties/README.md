@@ -1,5 +1,10 @@
 # [Eighties](https://aquagirl01.neocities.org/cyoas/eighties/)
 
+### Import String
+```
+70uu,rm76,d4gv,qxcw,r7bi,ssnx,n8uk,abgm,hxx5,wdoa,tnl3,u29o,m2sy,ujwo
+```
+
 ## Goals
 - Small Inheritance
   - Once you've graduated from high school, you will get a small inheritance from a distance relative. You get a very small house or a small apartment anywhere you want. The area, however, should typically be middle-class or less. For example, a house at Malibu Beach won't be possible. You also get $8k (roughly $20k in today's money) to start your new life in the 80s in whichever way you want.
