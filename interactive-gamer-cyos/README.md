@@ -442,6 +442,7 @@ roiw,u3bx,f2az,a667,gy4c,n86h,j76m,xg95,cj1y,eh77,yj9i,srz9,azw3,xe1k,sarj,e3fx,
   - Your eyes change to look like the starry sky and your pupils became slit
   - Your hands gain retractable claws
   - Your hair color becomes blood red
+  - Circuit-like marks will appear all over the body, but not the face
   <details>
     <summary>Details</summary>
   - Instead of just having a symbol that glows or becomes noticable, parts of your body start changing to reflect your System's activation. Maybe your hands and feet turn into a lightly green glowing metal, your eyes glow blue while your floating hair gains dark and light blue highlights? It has to be pretty dang obvious that you've got some kind of power active.
