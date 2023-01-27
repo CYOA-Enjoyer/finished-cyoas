@@ -44,6 +44,13 @@
 - World War Two? I only remember one of them.
 - Offended
 - Mutation
+  - Slit Pupil
+  - Golden Colored Eyes
+  - Devil Horns
+  - Prehensile Tail
+  - Retractable Claws
+  - Retractable Angel-like Wings
+  - Blood Red Hair
 - Supersoldier
 - Aura
 - Alchemy
