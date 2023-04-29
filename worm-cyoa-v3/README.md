@@ -36,16 +36,14 @@
 	- **Wanted (Cauldron) (Recruitment)** (+2 Point. -2 Remaining)
 	- **Without a Map** (+1 Point. -1 Remaining)
 - A Brighter World?:
-	- **For Want of a Nail** (-1 Point. -2 Remaining)
+	- **For Want of a Nail** (-5 Point. -6 Remaining)
 		- Scion/Zion is also dead.
 		- Shards from both entities are distributed and work correctly even if the entities are dead.
-		- No new entities are coming for earth.
 		- No conflict drive.
-		- Uber and Leet don't exist.
 		- Shards can now run forever and don't have a time limit. (Basically Negentropy from Worm CYOA V6 by Lt.Ouroumov.)
 		- Shards, once connected to a user, can run for that user no matter where they are. Wether they are on a different planet, galaxy, universe or even multiverse. (Basically Pocket Shard from Worm CYOA V6 by Lt.Ouroumov.)
-		- Connection to shards cannot be tempered with by outside forces.
-		- Where possible, Manton Limitations are removed.
 - Things Get Worse:
-	- **Disastrous** (+2 Points. 0 Remaining)
+	- **Disastrous** (+2 Points. -4 Remaining)
 		- A zombie apocalypse breaks out.
+	- **Horrific** (+4 Points. 0 Remaining)
+		- Undead empire from distant galaxy is the source of the previously mentioned apocalypse. It now gets worse as zombies will also get stronger over time.
