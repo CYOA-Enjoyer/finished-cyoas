@@ -1,0 +1,51 @@
+# [Worm CYOA v3](https://forums.spacebattles.com/threads/worm-cyoa-all-versions.558034/?post=38306689#post-38306689)
+
+## Build 1 - Magic Tinker in the Zombie Apocalypse
+- Difficulty: **God Mode** (+10 Points. 10 Remaining)
+- Twins: **Leet (Jailbroken)** (-3 Points. 7 Remaining)
+	- Removed all drawbacks such as:
+		- Not being able to build something more than once
+		- Being similar means it's quite possible to misfire or fail
+		- The chances of a creation misfiring increasing the more you work on the idea or in that field.
+		- Drive conflict.
+		- Anything negative basically.
+	- Power also gives the knowledge of how the item created works and details about it and its usage.
+	- Technology is not blackboxed unless chosen by user.
+	- Items created can be maintained by anyone by following instructions given at the end of the creation of the item.
+- **Twins: Armsmaster** (-2 Points. 5 Remaining)
+- **Twins: Panacea (Jailbroken)** (-3 Points. 2 Remaining)
+	- Can modify even own biology.
+	- Remove drive conflict.
+	- Range changes from touch to 5 meters around user.
+- Wildcard: [**Life Data Manipulation**](https://powerlisting.fandom.com/wiki/Life_Data_Manipulation) (Rating 10) (-1 Point. 1 Remaining)
+- Wildcard: [**Enhanced Creativity**](https://powerlisting.fandom.com/wiki/Peak_Human_Creativity/Enhanced) Rating (9) (-1 Point. 0 Remaining)
+- Apprentice: **Wand Magic (Harry Potter) (Incl. Mental Archive)** (-3 Points. -3 Remaining)
+- Apprentice: **Arcane Magic (DnD) (Incl. Mental Archive)** (-3 Points. -6 Remaining)
+- Powers: **Kaleidoscope** (-2 Points. -8 Remaining)
+- Advantages:
+	- **Charles Atlas Superpowers** (-1 Point. -9 Remaining)
+	- **Man of Mystery** (-1 Point. -10 Remaining)
+	- **Special Snowflake** (-1 Point. -11 Remaining)
+- Disadvantages:
+	- **Case 53 (Fox ears and tail)** (+1 Point. -10 Remaining)
+	- **Geas (Cannot lie.)** (+1 Point. -9 Remaining)
+	- **Geas (Must at least put a token effort to stop a conflict in a peaceful manner.)** (+1 Point. -8 Remaining)
+	- **Wanted (ABB)** (+1 Point. -7 Remaining)
+	- **Wanted (Merchants)** (+1 Point. -6 Remaining)
+	- **Wanted (PRT)** **(Recruitment)** (+2 Point. -4 Remaining)
+	- **Wanted (Cauldron)** **(Recruitment)** (+2 Point. -2 Remaining)
+	- **Without a Map** (+1 Point. -1 Remaining)
+- A Brighter World?:
+	- **For Want of a Nail** (-1 Point. -2 Remaining)
+		- Scion/Zion is also dead.
+		- Shards from both entities are distributed and work correctly even if the entities are dead.
+		- No new entities are coming for earth.
+		- No conflict drive.
+		- Uber and Leet don't exist.
+		- Shards can now run forever and don't have a time limit. (Basically Negentropy from Worm CYOA V6 by Lt.Ouroumov.)
+		- Shards, once connected to a user, can run for that user no matter where they are. Wether they are on a different planet, galaxy, universe or even multiverse. (Basically Pocket Shard from Worm CYOA V6 by Lt.Ouroumov.)
+		- Connection to shards cannot be tempered with by outside forces.
+		- Where possible, Manton Limitations are removed.
+- Things Get Worse:
+	- **Disastrous** (+2 Points. 0 Remaining)
+		- A zombie apocalypse breaks out.
