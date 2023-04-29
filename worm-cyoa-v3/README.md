@@ -34,7 +34,7 @@
 	- **Wanted (Merchants)** (+1 Point. -6 Remaining)
 	- **Wanted (PRT)** **(Recruitment)** (+2 Point. -4 Remaining)
 	- **Wanted (Cauldron) (Recruitment)** (+2 Point. -2 Remaining)
-	- **Without a Map (In front of Armsmaster)** (+1 Point. -1 Remaining)
+	- **Without a Map** (+1 Point. -1 Remaining)
 - A Brighter World?:
 	- **For Want of a Nail** (-1 Point. -2 Remaining)
 		- Scion/Zion is also dead.
